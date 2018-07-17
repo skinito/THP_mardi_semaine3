@@ -15,4 +15,4 @@ Ce projet contient :
 <li> 1 fichier gemfile : Gemfile </li>
 </ul>
 
-Pensez bien à faire un bundle install car nous avons ajouté les pions en couleurs
+<blockquote>Pensez bien à faire un bundle install car nous avons ajouté les pions en couleurs</blockquote>
