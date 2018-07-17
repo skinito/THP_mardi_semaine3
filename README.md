@@ -1,6 +1,6 @@
 Projet THP du 17 juillet 2018
 
-Jeux Tic-Tac-Toe :)
+<h1> Jeux Tic-Tac-Toe </h1>
 
 Réalisation d’un jeu de morpion en ruby en Programmation Orientée Objet
 
