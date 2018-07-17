@@ -4,7 +4,7 @@ Jeux Tic-Tac-Toe :)
 
 Réalisation d’un jeu de morpion en ruby en Programmation Orientée Objet
 
-En pair-programming avec @skinito et <strong> le petit @Anouar de 14 ans <\strong>
+En pair-programming avec @skinito et <strong> le petit @Anouar de 14 ans </strong>
 
 Ce projet contient :
 
