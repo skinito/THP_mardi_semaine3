@@ -4,7 +4,7 @@ Projet THP du 17 juillet 2018
 
 Réalisation d’un jeu de morpion en ruby en Programmation Orientée Objet
 
-En pair-programming avec @skinito et <strong> le petit @Anouar de 14 ans </strong>
+En <em>pair-programming</em> avec @skinito et <strong> le petit @Anouar de 14 ans </strong>
 
 Ce projet contient :
 <ul>
